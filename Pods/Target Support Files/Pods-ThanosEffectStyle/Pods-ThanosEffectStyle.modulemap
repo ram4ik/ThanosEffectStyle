@@ -1,0 +1,6 @@
+framework module Pods_ThanosEffectStyle {
+  umbrella header "Pods-ThanosEffectStyle-umbrella.h"
+
+  export *
+  module * { export * }
+}

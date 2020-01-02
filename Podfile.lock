@@ -1,0 +1,16 @@
+PODS:
+  - Disintegrate (0.2.0)
+
+DEPENDENCIES:
+  - Disintegrate
+
+SPEC REPOS:
+  trunk:
+    - Disintegrate
+
+SPEC CHECKSUMS:
+  Disintegrate: 59390cbca1c6fed3f8baa39619300ee36571f0e0
+
+PODFILE CHECKSUM: ee2091f02672b3abfc5ed5606bd365e54c87ec86
+
+COCOAPODS: 1.8.4
